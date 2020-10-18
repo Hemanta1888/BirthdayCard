@@ -8,6 +8,125 @@ input.onButtonPressed(Button.B, function () {
     while (Birthday == true) {
         basic.showLeds(`
             . # . # .
+            . # . # .
+            . # # # .
+            . # . # .
+            . # . # .
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            . . # . .
+            . # . # .
+            . # # # .
+            . # . # .
+            . # . # .
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            . # # # #
+            . # . . #
+            . # # # #
+            . # . . .
+            . # . . .
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            . # # # #
+            . # . . #
+            . # # # #
+            . # . . .
+            . # . . .
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            . # . # .
+            . # . # .
+            . . # . .
+            . . # . .
+            . . # . .
+            `)
+        basic.pause(500)
+        basic.showLeds(`
+            . # # # #
+            . # . . #
+            . # # # #
+            . # . . #
+            . # # # #
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            . # # # .
+            . . # . .
+            . . # . .
+            . . # . .
+            . # # # .
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            . # # # #
+            . # . . #
+            . # # # #
+            . # . # .
+            . # . . #
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            # # # # #
+            . . # . .
+            . . # . .
+            . . # . .
+            . . # . .
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            . # . # .
+            . # . # .
+            . # # # .
+            . # . # .
+            . # . # .
+            `)
+        basic.pause(500)
+        basic.showLeds(`
+            # # # # #
+            . . # . .
+            . . # . .
+            . . # . .
+            . . # . .
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            . # # # .
+            # . . . #
+            # . . . #
+            # . . . #
+            . # # # .
+            `)
+        basic.pause(500)
+        basic.showLeds(`
+            . # . # .
+            . # . # .
+            . . # . .
+            . . # . .
+            . . # . .
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            . # # # .
+            # . . . #
+            # . . . #
+            # . . . #
+            . # # # .
+            `)
+        basic.pause(200)
+        basic.showLeds(`
+            # . . . #
+            # . . . #
+            # . . . #
+            # . . . #
+            . # # # .
+            `)
+        basic.showLeds(`
+            . # . # .
             # # # # #
             # # # # #
             . # # # .
